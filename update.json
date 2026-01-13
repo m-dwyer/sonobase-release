@@ -1,15 +1,7 @@
 {
   "version": "1.1.0",
   "build": 1001000,
-  "notes": "• add line waveform rendering
-• add transients and waveform zoom
-• add minimap for panning
-• add sample playback looping, minimap zoom
-• add auto update
-• add Export collection button
-• run ANALYZE after jobs
-• sort on find sample index
-• clear filters, query and navigate to favourite",
+  "notes": "• add line waveform rendering\n• add transients and waveform zoom\n• add minimap for panning\n• add sample playback looping, minimap zoom\n• add auto update\n• add Export collection button\n• run ANALYZE after jobs\n• sort on find sample index\n• clear filters, query and navigate to favourite",
   "date": "2026-01-13",
   "platforms": {
     "macos": "https://github.com/m-dwyer/sonobase-release/releases/download/v1.1.0/sonobase-v1.1.0-macos.zip",
