@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "build": 1001001,
-  "notes": "• folder filter expand/collapse, trim on search and update manifest",
-  "date": "2026-01-13",
+  "version": "1.2.0",
+  "build": 1002000,
+  "notes": "• show selected sample in filter ranges, create preset from current sample\n• add preset categories, add more filter presets\n• searchable filter preset dropdown\n• add sample multi-select\n• create filter preset from multi-selected samples\n• bulk add tags to multi-selected samples\n• add bulk samples to collection\n• add duration filter, fix player tme\n• add effective duration feature extraction and filtering\n• fix: reclassify showing 100% complete on first run without processing",
+  "date": "2026-01-17",
   "platforms": {
-    "macos": "https://github.com/m-dwyer/sonobase-release/releases/download/v1.1.1/sonobase-v1.1.1-macos.zip",
-    "windows": "https://github.com/m-dwyer/sonobase-release/releases/download/v1.1.1/sonobase-v1.1.1-windows.zip"
+    "macos": "https://github.com/m-dwyer/sonobase-release/releases/download/v1.2.0/sonobase-v1.2.0-macos.zip",
+    "windows": "https://github.com/m-dwyer/sonobase-release/releases/download/v1.2.0/sonobase-v1.2.0-windows.zip"
   }
 }
